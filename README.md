@@ -4,7 +4,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=NanoTrash)
 ![GitHub followers](https://img.shields.io/github/followers/NanoTrash)
 
-![Практикум](https://skillicons.dev/icons?i=docker,kubernetes,powershell,py,vscode,bash,mysql,snort,flask,linux,ansible)
+![Практикум](https://skillicons.dev/icons?i=docker,kubernetes,powershell,py,vscode,bash,mysql,git,flask,linux,ansible)
 
 
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)](https://www.debian.org/ "Go to Debian homepage")
