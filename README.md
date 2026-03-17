@@ -4,4 +4,4 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=NanoTrash)
 ![GitHub followers](https://img.shields.io/github/followers/NanoTrash)
 
-![Практикум](https://skillicons.dev/icons?i=docker,kubernetes,rust,powershell,py,vscode,bash,mysql,git,jenkins,bsd,windows,linux,slackware,ansible)
+![Практикум](https://skillicons.dev/icons?i=rust,powershell,py,bash,vscode,mysql,git,docker,kubernetes,jenkins,bsd,windows,linux,ansible)
